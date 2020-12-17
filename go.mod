@@ -1,3 +1,3 @@
-module github.com/heheh13/testmod/v2
+module github.com/heheh13/testmod
 
 go 1.15
